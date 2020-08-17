@@ -1,6 +1,7 @@
 Installation:
 
 pip install django
+
 pip install virtualenv
 
 Active virtualenv by:
